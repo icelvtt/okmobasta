@@ -1,0 +1,28 @@
+{
+  "title": "Krokos",
+  "description": "Flowershow demo site showcasing its features",
+  "image": "krokoslogo.png",
+  "nav": {
+    "title": "Krokos",
+    "logo": "krokoslogo.png",
+    "links": [
+      {
+        "href": "/GENERALE/GEMERALE",
+        "name": "Generale"
+      },
+      {
+        "href": "/GENERALE/STILI",
+        "name": "Stili"
+      },
+      {
+        "href": "/GENERALE/ELEMENTI",
+        "name": "Elementi"
+      }
+    ]
+  },
+  "showSidebar": true,
+  "theme": {
+    "defaultMode": "system",
+    "showModeSwitch": true
+  }
+}
